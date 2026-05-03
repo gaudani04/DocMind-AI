@@ -5,3 +5,5 @@ pypdf
 langchain-text-splitters
 openai
 python-dotenv
+torch
+torchvision
