@@ -76,19 +76,20 @@ Back: The process of building and managing a business.
 ## Tech Stack
 
 ### Frontend
-- :contentReference[oaicite:1]{index=1}
+- streamlit
 
 ### Backend
 - Python
 
 ### Embeddings
-- :contentReference[oaicite:2]{index=2} (`all-MiniLM-L6-v2`)
+- (`all-MiniLM-L6-v2`)
 
 ### Vector Database
-- :contentReference[oaicite:3]{index=3}
+- chromaDB
 
 ### LLM Provider
-- :contentReference[oaicite:4]{index=4}
+- openrouter/free,
+  deepseek/deepseek-r1:free
 
 ---
 
@@ -141,16 +142,6 @@ OPENROUTER_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
----
-
-## Future Improvements
-
-- Multi-PDF comparison
-- Voice-based interaction
-- Topic-wise summaries
-- User learning analytics
-
----
 
 ## Author
 
