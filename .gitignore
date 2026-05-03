@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / API keys
+.env
+
+# Chroma vector database
+EmbeddingData/
+
+# Jupyter notebook cache
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
