@@ -1,6 +1,6 @@
 # DocMind AI
 
-An AI-powered PDF learning assistant built using conversational :contentReference[oaicite:0]{index=0}.
+An AI-powered PDF learning assistant .
 
 DocMind AI allows users to upload PDF documents and:
 
